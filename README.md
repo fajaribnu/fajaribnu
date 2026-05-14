@@ -8,7 +8,7 @@
 
 ```text
 $ whoami
-fajar · data engineer · 5+ years on google cloud
+ibnu · data engineer · 5+ years on google cloud
 $ pwd
 ~/national-university-of-singapore/m.comp
 $ uptime
@@ -205,7 +205,7 @@ IT consultancy delivering BI and data visualisation solutions.
 - ✉️ <fajaribnufatihan@gmail.com>
 - 💼 [linkedin.com/in/fajar-i-fatihan](https://linkedin.com/in/fajar-i-fatihan/)
 - 🐙 [github.com/fajaribnu](https://github.com/fajaribnu)
-- 🌐 [interactive CV](https://your-deploy-url-here) <!-- replace once deployed -->
+- 🌐 [CV (coming soon!!!!](https://your-deploy-url-here) <!-- replace once deployed -->
 
 ---
 
