@@ -3,7 +3,7 @@
 <p align="center"><i>Turning raw data into business clarity.</i></p>
 
 <p align="center">
-  📍 Singapore · Jakarta · Padang &nbsp;·&nbsp; 🎓 M.Comp @ NUS &nbsp;·&nbsp; ☁️ Google Cloud
+  📍 Singapore · Jakarta · Padang &nbsp;·&nbsp; 🎓 M.Comp @ NUS &nbsp;·&nbsp; ☁️ Cloud??????
 </p>
 
 ```text
@@ -85,7 +85,7 @@ Data engineer who turns messy stakeholder requirements into reliable warehouses,
 - ✉️ <fajaribnufatihan@gmail.com>
 - 💼 [linkedin.com/in/fajar-i-fatihan](https://linkedin.com/in/fajar-i-fatihan/)
 - 🐙 [github.com/fajaribnu](https://github.com/fajaribnu)
-- 🌐 [CV (coming soon!!!)](https://your-deploy-url-here) <!-- replace once deployed -->
+<!-- - 🌐 [CV (coming soon!!!)](https://your-deploy-url-here) -->
 
 ---
 
