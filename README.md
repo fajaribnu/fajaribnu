@@ -17,7 +17,7 @@ $ cat ~/.on-repeat
 
 Data engineer who turns messy stakeholder requirements into reliable warehouses, insightful dashboards, and ML pipelines. Currently having fun (re: studying 😈) at the **National University of Singapore**.
 
-→ **[checkout this one out](https://ibnu.botolminum.org/)**. <!-- replace once deployed -->
+→ **[check this one out](https://ibnu.botolminum.org/)**. <!-- replace once deployed -->
 
 ---
 
